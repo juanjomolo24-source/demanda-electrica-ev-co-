@@ -1,5 +1,1 @@
-streamlit==1.28.0
-pandas==2.1.1
-numpy==1.26.0
-plotly==5.17.0
-requests==2.31.0
+streamlit pandas numpy plotly requests openpyxl (Sin números de versión — así Streamlit Cloud instala automáticamente las versiones más recientes que SÍ son compatibles con Python 3.14)
