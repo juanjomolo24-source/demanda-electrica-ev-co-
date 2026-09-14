@@ -9,6 +9,9 @@ Ademas, Hemos decidido implementar un aplicativo interactivo donde se muestre la
 
 🚀 **[Abrir Aplicación Interactiva en Vivo](https://idftgnjrz4vt8e5qyqe6zw.streamlit.app/)**
 
+<img width="1568" height="729" alt="image" src="https://github.com/user-attachments/assets/0e3eb846-8c44-4baf-9a46-0d2b11067e8f" />
+
+
 ---
 
 ## 👥 Integrantes
