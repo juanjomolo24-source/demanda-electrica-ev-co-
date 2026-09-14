@@ -17,6 +17,10 @@ Se ejecuta de manera mensual para la lectura de nuevos datos
 
 <img width="1024" height="362" alt="image" src="https://github.com/user-attachments/assets/88e275ce-1578-4e85-9b41-45df717f0fa5" />
 
+## Arquitectura
+<img width="981" height="1600" alt="Arquitectura_Medallion" src="https://github.com/user-attachments/assets/7a018830-f4a4-48d9-b929-87d78d94b1b7" />
+
+
 
 
 ---
