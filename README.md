@@ -9,6 +9,26 @@ Ademas, Hemos decidido implementar un aplicativo interactivo donde se muestre la
 
 🚀 **[Abrir Aplicación Interactiva en Vivo](https://idftgnjrz4vt8e5qyqe6zw.streamlit.app/)**
 
+### 📊 ¿Qué encontrarás en el Dashboard?
+
+El panel interactivo permite explorar la información consolidada procesada mediante las siguientes secciones y funcionalidades:
+
+* **📈 Indicadores Clave (KPIs):** Resumen ejecutivo con las métricas principales de consumo acumulado (en kWh y MWh) y la flota estimada de vehículos eléctricos (EV).
+* **🗺️ Análisis Geográfico y Territorial:** Filtros por municipio y año para analizar el comportamiento regional de la demanda energética.
+* **🔮 Modelos de Predicción:** Visualización de tendencias de consumo energético futuro para apoyar la toma de decisiones en infraestructura de carga.
+* **🎛️ Filtros Dinámicos:** Panel lateral (*sidebar*) para segmentar las lecturas por periodo de tiempo, región geográfica y tipo de métrica.
+
+  <img width="756" height="172" alt="image" src="https://github.com/user-attachments/assets/1ee16878-8e85-49ce-b597-88a046044811" />
+
+  <img width="769" height="365" alt="image" src="https://github.com/user-attachments/assets/c5d5b876-f329-43ec-8804-ec2937ab6bbc" />
+
+<img width="741" height="244" alt="image" src="https://github.com/user-attachments/assets/1339040c-c7b9-4292-85e8-b8024ad480f2" />
+
+<img width="148" height="384" alt="image" src="https://github.com/user-attachments/assets/01392d45-a20d-4e40-89aa-5b96e3c6c0dc" />
+
+
+
+
 ## Job and pipeline
 Se ejecuta de manera mensual para la lectura de nuevos datos 
 <img width="1568" height="729" alt="image" src="https://github.com/user-attachments/assets/0e3eb846-8c44-4baf-9a46-0d2b11067e8f" />
