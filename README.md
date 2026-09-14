@@ -13,6 +13,11 @@ Ademas, Hemos decidido implementar un aplicativo interactivo donde se muestre la
 Se ejecuta de manera mensual para la lectura de nuevos datos 
 <img width="1568" height="729" alt="image" src="https://github.com/user-attachments/assets/0e3eb846-8c44-4baf-9a46-0d2b11067e8f" />
 
+## Linage
+
+<img width="1024" height="362" alt="image" src="https://github.com/user-attachments/assets/88e275ce-1578-4e85-9b41-45df717f0fa5" />
+
+
 
 ---
 
