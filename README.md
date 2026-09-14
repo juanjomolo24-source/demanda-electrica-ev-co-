@@ -20,11 +20,9 @@ El panel interactivo permite explorar la información consolidada procesada medi
 
   <img width="756" height="172" alt="image" src="https://github.com/user-attachments/assets/1ee16878-8e85-49ce-b597-88a046044811" />
 
-  <img width="769" height="365" alt="image" src="https://github.com/user-attachments/assets/c5d5b876-f329-43ec-8804-ec2937ab6bbc" />
+  En esta area econtrarás los Items al detalle y en cada una de las pestañas , se observa los detalles de los datos , estos son filtrados por año y lugar 
 
-<img width="741" height="244" alt="image" src="https://github.com/user-attachments/assets/1339040c-c7b9-4292-85e8-b8024ad480f2" />
-
-<img width="148" height="384" alt="image" src="https://github.com/user-attachments/assets/01392d45-a20d-4e40-89aa-5b96e3c6c0dc" />
+  <img width="504" height="59" alt="image" src="https://github.com/user-attachments/assets/17ae4777-1600-4a19-8d2a-be13752b4f42" />
 
 
 
