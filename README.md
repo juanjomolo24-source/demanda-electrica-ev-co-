@@ -27,7 +27,7 @@ El panel interactivo permite explorar la información consolidada procesada medi
 
 
 
-## Job and pipeline
+## Job and Pipeline
 Se ejecuta de manera mensual para la lectura de nuevos datos 
 <img width="1568" height="729" alt="image" src="https://github.com/user-attachments/assets/0e3eb846-8c44-4baf-9a46-0d2b11067e8f" />
 
