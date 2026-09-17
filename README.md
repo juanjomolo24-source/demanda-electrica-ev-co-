@@ -38,7 +38,20 @@ Se ejecuta de manera mensual para la lectura de nuevos datos
 ## Arquitectura
 <img width="981" height="1600" alt="Arquitectura_Medallion" src="https://github.com/user-attachments/assets/7a018830-f4a4-48d9-b929-87d78d94b1b7" />
 
+## Graficos 
+Proyeccion de demanda eléctrica nacional por vehiculos eléctricos , crecimiento del parque de vehiculos eléctricos
+<img width="658" height="256" alt="image" src="https://github.com/user-attachments/assets/61cd69e3-f8a3-4dbd-b3b2-2cf835b77a6a" />
 
+Demanda eléctrica sectorizada por ciudades
+<img width="444" height="270" alt="image" src="https://github.com/user-attachments/assets/5205207a-f4f7-4d12-b279-c4d0ee19cdfb" />
+
+Evolucion demanda eléctrica por ciudades
+<img width="558" height="264" alt="image" src="https://github.com/user-attachments/assets/beb5a687-af5f-4680-b8c0-61d462928509" 
+
+## Representación grafica del módelo predictivo 
+<img width="528" height="298" alt="image" src="https://github.com/user-attachments/assets/a2d3656a-ce59-4824-b428-cda6adf67308" />
+
+En le mismo documento (Código "Arquitectura Medallion Vehiculos Electricos Colombia.ipynb") se puede encontrar la infromación al detalle
 
 
 ---
