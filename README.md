@@ -55,6 +55,20 @@ Muestra el número total acumulado de vehículos eléctricos en circulación cad
 
 <img width="444" height="270" alt="image" src="https://github.com/user-attachments/assets/5205207a-f4f7-4d12-b279-c4d0ee19cdfb" />
 
+## Gráfico 2 – Demanda Eléctrica Proyectada por Ciudad (2026)
+
+Muestra la demanda eléctrica anual proyectada (en MWh) para 2026 en seis ciudades de Colombia, ordenadas de mayor a menor 
+
+**Ciudades con mayor demanda:**
+- **Bogotá** y **Medellín** concentran la mayor parte de la demanda proyectada, muy por encima del resto de ciudades.
+- **Manizales** también destaca con 19,710 MWh, superando a ciudades como Cali, Barranquilla y Pereira.
+
+**Ciudades con menor demanda:**
+- **Cali** (6,412 MWh), **Barranquilla** (~6,256 MWh) y **Pereira** (6,132 MWh) presentan niveles de demanda similares entre sí y considerablemente menores que los de las dos principales ciudades.
+
+**Conclusión general:**
+La demanda eléctrica proyectada está fuertemente concentrada en las dos ciudades más grandes del país, lo que sugiere que la infraestructura de carga e inversión en red eléctrica debería priorizarse en estos centros urbanos
+
 3. Evolucion demanda eléctrica por ciudades
 
 <img width="532" height="261" alt="image" src="https://github.com/user-attachments/assets/10001d6d-f440-406e-94ce-445038132cac" />
