@@ -39,14 +39,16 @@ Se ejecuta de manera mensual para la lectura de nuevos datos
 <img width="981" height="1600" alt="Arquitectura_Medallion" src="https://github.com/user-attachments/assets/7a018830-f4a4-48d9-b929-87d78d94b1b7" />
 
 ## Graficos 
-Proyeccion de demanda eléctrica nacional por vehiculos eléctricos , crecimiento del parque de vehiculos eléctricos
+1. Proyeccion de demanda eléctrica nacional por vehiculos eléctricos , crecimiento del parque de vehiculos eléctricos
+
 <img width="658" height="256" alt="image" src="https://github.com/user-attachments/assets/61cd69e3-f8a3-4dbd-b3b2-2cf835b77a6a" />
 
-Demanda eléctrica sectorizada por ciudades
+2. Demanda eléctrica sectorizada por ciudades
 
 <img width="444" height="270" alt="image" src="https://github.com/user-attachments/assets/5205207a-f4f7-4d12-b279-c4d0ee19cdfb" />
 
-Evolucion demanda eléctrica por ciudades
+3. Evolucion demanda eléctrica por ciudades
+
 <img width="532" height="261" alt="image" src="https://github.com/user-attachments/assets/10001d6d-f440-406e-94ce-445038132cac" />
 
 
