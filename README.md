@@ -42,11 +42,13 @@ Se ejecuta de manera mensual para la lectura de nuevos datos
 1. Proyeccion de demanda eléctrica nacional por vehiculos eléctricos , crecimiento del parque de vehiculos eléctricos
 
 <img width="658" height="256" alt="image" src="https://github.com/user-attachments/assets/61cd69e3-f8a3-4dbd-b3b2-2cf835b77a6a" />
-Gráfico 1 – Proyección de Demanda Eléctrica Nacional (izquierda)
+## Gráfico 1 – Proyección de Demanda Eléctrica Nacional (izquierda)
+
 Muestra cuánta energía eléctrica (en MWh) se necesitaría a nivel nacional para cargar vehículos eléctricos, año por año, de 2020 a 2026. La demanda crece de forma moderada hasta 2024 (~29,534 MWh), pero luego se dispara con fuerza en 2025 y 2026, llegando a 177,670 MWh. Ese salto tan pronunciado al final indica una aceleración importante en la adopción de vehículos eléctricos.
 
-Gráfico 2 – Crecimiento del Parque de Vehículos Eléctricos (derecha)
-Muestra el número total acumulado de vehículos eléctricos en circulación cada año, también de 2020 a 2026. Pasa de 1,302 vehículos en 2020 a 40,564 en 2026, con un crecimiento que se acelera claramente en los últimos dos años (2025-2026)
+## Gráfico 2 – Crecimiento del Parque de Vehículos Eléctricos (derecha)
+
+Muestra el número total acumulado de vehículos eléctricos en circulación cada año, también de 2020 a 2026. Pasa de 1,302 vehículos en 2020 a 40,564 en 2026, con un crecimiento que se acelera claramente en los últimos dos años (2025-2026).
 
 2. Demanda eléctrica sectorizada por ciudades
 
