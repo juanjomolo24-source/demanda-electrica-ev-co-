@@ -71,6 +71,21 @@ La demanda eléctrica proyectada está fuertemente concentrada en las dos ciudad
 
 <img width="532" height="261" alt="image" src="https://github.com/user-attachments/assets/10001d6d-f440-406e-94ce-445038132cac" />
 
+Representa la evolución año a año de la demanda eléctrica (en MWh) para las seis ciudades analizadas, permitiendo comparar sus trayectorias de crecimiento entre 2020 y 2026.
+
+**Ciudades con mayor crecimiento:**
+- **Bogotá** (línea dorada) lidera claramente desde el inicio y mantiene el crecimiento más pronunciado, terminando cerca de 90,000 MWh en 2026, con una aceleración muy marcada a partir de 2024.
+- **Medellín** (línea rosa/roja) parte muy bajo, similar al resto de ciudades, pero despega con fuerza desde 2024 y cierra 2026 alrededor de 50,000 MWh, ubicándose como la segunda ciudad con mayor demanda.
+
+**Ciudades con crecimiento moderado:**
+- **Cali** (línea magenta) muestra un crecimiento más gradual pero constante, alcanzando cerca de 20,000 MWh en 2026.
+
+**Ciudades con crecimiento bajo:**
+- **Barranquilla**, **Manizales** y **Pereira** se mantienen con valores muy bajos y cercanos entre sí durante casi todo el período, con un leve repunte hacia 2025-2026, pero sin despegar de forma significativa.
+
+**Conclusión general:**
+Con la representacion grafica podemos evidenciar una brecha creciente entre Bogotá y Medellín frente al resto de ciudades. Mientras las dos principales urbes muestran un crecimiento exponencial —especialmente después de 2024—, las demás ciudades presentan un incremento mucho más lento y sostenido, reforzando la idea de que la demanda eléctrica por vehículos eléctricos se está concentrando fuertemente en los grandes centros urbanos del país.
+
 
 ## Representación grafica del módelo predictivo 
 
