@@ -56,7 +56,7 @@ Se ejecuta de manera mensual para la lectura de nuevos datos
 
 <img width="528" height="298" alt="image" src="https://github.com/user-attachments/assets/a2d3656a-ce59-4824-b428-cda6adf67308" />
 
-En le mismo documento (Código "Arquitectura Medallion Vehiculos Electricos Colombia.ipynb") se puede encontrar la infromación al detalle
+En le mismo documento ( "Arquitectura Medallion Vehiculos Electricos Colombia.ipynb") se puede encontrar la infromación al detalle
 
 
 ---
