@@ -55,8 +55,6 @@ Muestra el número total acumulado de vehículos eléctricos en circulación cad
 
 <img width="444" height="270" alt="image" src="https://github.com/user-attachments/assets/5205207a-f4f7-4d12-b279-c4d0ee19cdfb" />
 
-## Gráfico 2 – Demanda Eléctrica Proyectada por Ciudad (2026)
-
 Muestra la demanda eléctrica anual proyectada (en MWh) para 2026 en seis ciudades de Colombia, ordenadas de mayor a menor 
 
 **Ciudades con mayor demanda:**
