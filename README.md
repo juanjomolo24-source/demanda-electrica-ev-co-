@@ -93,6 +93,29 @@ Con la representacion grafica podemos evidenciar una brecha creciente entre Bogo
 
 En le mismo documento ( "Arquitectura Medallion Vehiculos Electricos Colombia.ipynb") se puede encontrar la infromación al detalle
 
+Este gráfico combina los **datos base históricos** (2020-2026) con una **proyección extendida** (2027-2030) generada por un modelo predictivo, mostrando cómo se espera que evolucione la demanda eléctrica nacional asociada a vehículos eléctricos.
+
+**Datos base (2020-2026):**
+- La demanda crece de forma casi imperceptible en la escala del gráfico (dado que está en millones de MWh), pasando de valores cercanos a 0 hasta aproximadamente 0.18 millones de MWh (177,670 MWh) en 2026.
+
+**Proyección 2027-2030:**
+Según la tabla de proyección extendida, se estima:
+
+| Año | Vehículos EV | Demanda (MWh) |
+|------|--------------|----------------|
+| 2027 | 78,134 | 342,228.57 |
+| 2028 | 150,502 | 659,200.67 |
+| 2029 | 289,897 | 1,269,752.33 |
+| 2030 | 558,401 | 2,445,796.95 |
+
+**Tendencia observada:**
+- La curva muestra un **crecimiento exponencial** cada vez más pronunciado: la demanda casi se **duplica año a año** entre 2027 y 2030.
+- Para 2030, se proyecta una demanda eléctrica nacional cercana a **2.45 millones de MWh**, es decir, casi **14 veces más** que la demanda estimada en 2026.
+- El total de vehículos eléctricos también seguiría esta tendencia exponencial, llegando a más de 558,000 unidades en 2030.
+
+**Conclusión general:**
+El modelo predictivo sugiere que, si se mantienen las tendencias actuales de adopción, el sistema eléctrico nacional deberá prepararse para un incremento muy significativo en la demanda en los próximos años, lo cual tiene implicaciones importantes en términos de planificación de infraestructura, capacidad de generación y expansión de redes de carga para vehículos eléctricos
+
 
 ---
 
