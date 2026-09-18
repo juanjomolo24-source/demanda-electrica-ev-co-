@@ -124,6 +124,4 @@ El modelo predictivo sugiere que, si se mantienen las tendencias actuales de ado
 | N° | Nombre del Integrante |
 |:--:|---|
 | 1 | **Juan José Montoya Lopera** |
-| 2 | **Lucela Montoya Quintero** |
-| 3 | **Lizeth Catalina Pineda Arteaga** |
-| 4 | **Luisa Fernanda Zapata Correa** |
+| 2 | **Luisa Fernanda Zapata Correa** |
